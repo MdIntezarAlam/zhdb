@@ -62,7 +62,7 @@ const Person = () => {
     <PersonCard>
       <Image image={image}></Image>
       <Details>{name}
-      <br/>HappyBirthday
+      <br/>Happy Birthday
       </Details>
       <Dob>
         {dob} ({age} Yrs)
